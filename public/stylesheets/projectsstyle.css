@@ -1,0 +1,33 @@
+.projects-box {
+    margin-top: 600px;
+    width: 100%;
+    display: inline-flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 150px;
+}
+.individual-box {
+    width: 1000px;
+    display: inline-flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 20px;
+}
+.information-stack {
+    width:66%;
+    display: inline-flex;
+    flex-direction: column;
+    gap: 10px;
+}
+.detail-row {
+    display: inline-flex;
+    justify-content: space-between;
+    flex-direction: row;
+}
+.project-icon-sizing {
+    width: 33%;
+    aspect-ratio: 1/1;
+    border-radius: 32px;
+}
