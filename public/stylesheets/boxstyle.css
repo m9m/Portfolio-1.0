@@ -11,7 +11,7 @@ p, li {
 }
 a {
     text-decoration: none;
-    color: #62A1FF;
+    color: #6D6D6D;
 }
 footer {
     width: 100%;
@@ -28,6 +28,15 @@ h6 {
     font-weight: 400;
     line-height: normal;
     color: #6D6D6D;
+}
+.legal-disclaimer-layout {
+    margin-top: 50px;
+    width: 800px;
+    display: inline-flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 25px;
 }
 .footer-row {
     display: inline-flex;
